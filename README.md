@@ -16,8 +16,3 @@
 ## User Credentials
 
 - dummy@abc.com | 12345
-
-## Additional Docs
-
-- DOC - https://docs.google.com/document/d/1gFXzvxeaRStH3HjmxnGlxCupDZKhhLuy6CKPxC3rlts/edit
-- PPT - https://docs.google.com/presentation/d/1msGNlddq7l_5kcxjADWq16vPDVmj3VTz/edit#slide=id.p1
