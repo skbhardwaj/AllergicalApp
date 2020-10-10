@@ -1,5 +1,3 @@
-// from react-native-tesseract-ocr/example
-
 import React, { useEffect, useState } from 'react';
 import { Button, StyleSheet, Text, View, Image, SafeAreaView } from 'react-native';
 import ImagePicker from 'react-native-image-crop-picker';
